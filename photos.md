@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bio
-permalink: /bio/
+title: Photos
+permalink: /photos/
 ---
 
 <div class="home">

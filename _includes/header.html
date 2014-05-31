@@ -1,9 +1,6 @@
 <header class="site-header">
 
   <div class="wrap">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -17,12 +14,13 @@
         </svg>
       </a>
       <div class="trigger">
-        <a class="page-link" href="/">Home</a>
-        <a class="page-link" href="/bio">Bio</a>
-        <a class="page-link" href="/photos">Photos</a>
-        <a class="page-link" href="/musics">Musics</a>
-        <a class="page-link" href="/dates">Dates</a>
-        <a class="page-link" href="/contact">Contact</a>
+        <a class="page-link" href="{{ site.baseurl }}/">Home</a>
+        <a class="page-link" href="{{ site.baseurl }}/bio">Bio</a>
+        <a class="page-link" href="{{ site.baseurl }}/photos">Photos</a>
+        <a class="page-link" href="{{ site.baseurl }}/musics">Musics</a>
+        <a class="page-link" href="{{ site.baseurl }}/videos">Videos</a>
+        <a class="page-link" href="{{ site.baseurl }}/dates">Dates</a>
+        <a class="page-link" href="{{ site.baseurl }}/contact">Contact</a>
       </div>
     </nav>
   </div>
