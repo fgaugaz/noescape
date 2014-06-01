@@ -1,10 +1,15 @@
 # Site settings
 title: No Escape
 email: noescaperocks@gmail.com
-facebook: https://www.facebook.com/noescaperocks
 description: "Rock band in Lausanne"
 baseurl: "/noescape"
 url: "http://noescapeband.com"
+
+social:
+    facebook: https://www.facebook.com/noescaperocks
+    youtube: http://youtube.com
+    soundcloud: https://soundcloud.com/noescapeband
+    flickr: http://flickr.com
 
 # Build settings
 markdown: kramdown
