@@ -18,7 +18,7 @@ permalink: /dates/
     <tr>
       <td>May 30th, 2014</td>
       <td>20:00</td>
-      <td>Fête de la bière (Unplugged Live)</td>
+      <td><a href="http://www.fetedelabiere.ch/index.php?page=concerts">Fête de la bière (Unplugged Live)</a></td>
       <td>Place du marché Vevey</td>
       <td>Vevey</td>
     </tr>
