@@ -1,5 +1,7 @@
 ---
-published: true
+layout: post
+date: 2014-06-05T10:49:37.000Z
+categories: test
 ---
 
 ## A New Post
