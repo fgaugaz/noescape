@@ -46,6 +46,9 @@ a:visited { color: #205caa; }
 .wrap img {
     width: 100%;
 }
+.wrap .home img {
+    width: auto;
+}
 
 /* Social */
 /* ----------------------------------------------------------*/
