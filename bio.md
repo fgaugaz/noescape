@@ -14,6 +14,9 @@ permalink: /bio/
   
   https://www.flickr.com/photos/125041074@N05/14381092051/
   
+  [url=https://www.flickr.com/photos/125041074@N05/14361335746/][img]https://farm4.staticflickr.com/3902/14361335746_dd45c014d6.jpg[/img][/url]
+[url=https://www.flickr.com/photos/125041074@N05/14361335746/]no_escape[/url] par [url=https://www.flickr.com/people/125041074@N05/]noescaperocks[/url], sur Flickr
+  
   </p>
 
   <h2>FranzZ</h2>
