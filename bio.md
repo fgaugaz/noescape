@@ -11,7 +11,7 @@ permalink: /bio/
 
 <iframe src="https://www.flickr.com/photos/125041074@N05/14381092051/player/60d4d825d6" height="240" width="167"  frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
   
-
+<iframe src="https://www.flickr.com/photos/125041074@N05/14383014152/player/a5c0f7300c" height="240" width="240"  frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
   
   </p>
 
