@@ -10,6 +10,7 @@ permalink: /bio/
   
   <iframe src="https://www.flickr.com/photos/125041074@N05/14381092051/player/60d4d825d6" height="500" width="349"  frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
   
+  <a href="https://www.flickr.com/photos/125041074@N05/14361335746/" title="no_escape de noescaperocks, sur Flickr"><img src="https://farm4.staticflickr.com/3902/14361335746_dd45c014d6.jpg" width="500" height="212" alt="no_escape"></a>
   
   https://www.flickr.com/photos/125041074@N05/14381092051/
   
