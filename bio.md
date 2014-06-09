@@ -13,6 +13,9 @@ permalink: /bio/
   
 <iframe src="https://www.flickr.com/photos/125041074@N05/14383014152/player/a5c0f7300c" height="240" width="240"  frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
   
+<iframe src="https://www.flickr.com/photos/125041074@N05/14131928398/player/78b9d5d8b8" height="92" width="240"  frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+  
+  
   </p>
 
   <h2>FranzZ</h2>
