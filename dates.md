@@ -16,7 +16,14 @@ permalink: /dates/
       </tr>
     </thead>
     <tr>
-      <td>May 30th, 2014</td>
+      <td>June 20th, 2014</td>
+      <td>14:00</td>
+      <td>Fête de la musique (Acoustic)</td>
+      <td>Place de l'Arlaud</td>
+      <td>Lausanne</td>
+    </tr>
+    <tr>
+    <td>May 30th, 2014</td>
       <td>20:00</td>
       <td><a href="http://www.fetedelabiere.ch/index.php?page=concerts">Fête de la bière (Unplugged Live)</a></td>
       <td>Place du marché Vevey</td>
