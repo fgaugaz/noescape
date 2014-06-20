@@ -25,7 +25,7 @@ permalink: /dates/
     <tr>
     <td>May 30th, 2014</td>
       <td>20:00</td>
-      <td><a href="http://www.fetedelabiere.ch/index.php?page=concerts">Fête de la bière (Unplugged Live)</a></td>
+      <td><a href="http://www.fetedelabiere.ch/index.php?page=concerts">Fête de la bière (Acoustic Live)</a></td>
       <td>Place du marché Vevey</td>
       <td>Vevey</td>
     </tr>
@@ -39,14 +39,14 @@ permalink: /dates/
     <tr>
       <td>January 11th, 2014</td>
       <td>21:00</td>
-      <td>Unplugged Live</td>
+      <td>Acoustic Live</td>
       <td>Bell’s</td>
       <td>Morges</td>
     </tr>
     <tr>
       <td>October 11th, 2013</td>
       <td>20:30</td>
-      <td>Unplugged Live</td>
+      <td>Acoustic Live</td>
       <td>Broadway Av.</td>
       <td>Lausanne</td>
     </tr>
@@ -74,7 +74,7 @@ permalink: /dates/
     <tr>
       <td>June 21st, 2013</td>
       <td>21:00</td>
-      <td>Fête de la musique (Unplugged)</td>
+      <td>Fête de la musique (Acoustic)</td>
       <td>Café Léonardo</td>
       <td>Lausanne</td>
     </tr>
